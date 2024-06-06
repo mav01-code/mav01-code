@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akshaya Varshini Marreddy
 - 👀 I’m interested in Web & App Development
-- 🌱 I’m currently learning Dart,JavaScript and backend development.
+- 🌱 I’m currently learning Dart, JavaScript, React and Django.
 - 💞️ I’m looking for collaborating on projects related to Web development
 - 📫 Reach me through email- marreddyakshayavarshini@gmail.com
 
