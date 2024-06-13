@@ -5,6 +5,10 @@
 - 💞️ I’m looking to collaborate on projects related to Web development
 - 📫 Reach me through email: marreddyakshayavarshini@gmail.com
 
+## GitHub Stats:
+
+![Akshaya's GitHub stats](https://github-readme-stats.vercel.app/api?mav01-code=mav01-code&show_icons=true&theme=radical)
+
 ## Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marreddy-akshaya-varshini-133704291)
