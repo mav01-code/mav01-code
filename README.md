@@ -7,7 +7,8 @@
 
 ## GitHub Stats:
 
-![Akshaya's GitHub stats](https://github-readme-stats.vercel.app/api?mav01-code=mav01-code&show_icons=true&theme=radical)
+![Akshaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=mav01-code&show_icons=true&theme=radical)
+
 
 ## Connect with me:
 
