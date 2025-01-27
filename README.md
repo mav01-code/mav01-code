@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Akshaya Varshini Marreddy
 
 - 👀 I’m interested in Web & App Development
-- 🌱 I’m currently learning JavaScript, React, and Django
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on projects related to Web development
 - 📫 Reach me through email: marreddyakshayavarshini@gmail.com
 
