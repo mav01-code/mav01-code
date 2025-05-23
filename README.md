@@ -2,7 +2,7 @@
 
 - I’m interested in Problem Solving
 - I’m currently learning ReactJS and DSA with Python
-- I’m looking to collaborate on projects related to Web development
+- I’m looking to collaborate on projects related to Web development, AWS, DevOps
 - Reach me through email: marreddyakshayavarshini@gmail.com
 
 ## GitHub Stats:
