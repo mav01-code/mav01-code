@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Akshaya Varshini Marreddy
 
 - I’m interested in Problem Solving
-- I’m currently learning ReactJS and DSA with Python
-- I’m looking to collaborate on projects related to Web development, AWS, DevOps
-- Reach me through email: marreddyakshayavarshini@gmail.com
+- I’m currently focusing on DSA skills
+- I’m looking to collaborate on projects related to Web development, AWS
+- Reach me through email: marreddyakshayavarshini@gmail.com or marreddywork@gmail.com
 
 ## GitHub Stats:
 
