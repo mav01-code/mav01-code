@@ -11,6 +11,7 @@
 ## Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshayavarshini)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=linkedin&logoColor=white)](mailto:marreddywork@gmail.com)
 
 ## Languages and Tools :
 
