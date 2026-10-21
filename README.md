@@ -1,9 +1,8 @@
-# 👋 Hi, I’m Akshaya Varshini Marreddy
+# Hi, I’m Akshaya Varshini Marreddy
 
-- I’m interested in problem solving
-- I’m currently focusing on learning FastAPI
-- I’m looking to collaborate on projects that have real impact on society
-- Reach me through email: marreddyakshayavarshini@gmail.com or marreddywork@gmail.com
+- I'm currently working as an intern at Nokia Solutions and Networks
+- You can check out my projects and portfolio here
+- Feel free to reach out on LinkedIn or mail for any queries
 
 ## GitHub Stats:
 ![GitHub Card](https://githubcard.com/mav01-code.svg?d=5lm_12Mc)
@@ -11,7 +10,7 @@
 ## Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshayavarshini)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=linkedin&logoColor=white)](mailto:marreddywork@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=linkedin&logoColor=white)](mailto:marreddyakshayavarshini@gmail.com)
 
 ## Languages and Tools :
 
